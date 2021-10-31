@@ -1,5 +1,5 @@
-// A Recursive C++ program to solve minimum sum partition
-// problem.
+// A Recursive C++ program to solve minimum sum partition problem
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -47,3 +47,4 @@ int main()
 		<< findMin(arr, n);
 	return 0;
 }
+ // End of the program
