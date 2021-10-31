@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Function to find the minimum sum
+// Function to find the  minimum sum
 int findMinRec(int arr[], int i, int sumCalculated,
 			int sumTotal)
 {
